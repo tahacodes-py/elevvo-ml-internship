@@ -1,4 +1,3 @@
-
 # Elevvo ML Internship
 
 Machine learning tasks completed as part of the Elevvo Pathways internship,
@@ -16,10 +15,20 @@ Predicts students' exam scores from study hours using linear regression.
 - **Files:** [`task1.py`](./task1.py)
 
 ### Task 2: Customer Segmentation
-*(coming soon)*
+Clusters mall customers into segments based on income and spending score.
+
+- **Dataset:** [Mall Customer Segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) (Kaggle)
+- **Approach:** Feature scaling, K-Means clustering, optimal cluster selection, 2D visualization
+- **Result:** *TBD*
+- **Files:** *TBD*
 
 ### Task 3: Loan Approval Prediction
-*(coming soon)*
+Predicts whether a loan application will be approved.
+
+- **Dataset:** [Loan Approval Prediction Dataset](https://www.kaggle.com/datasets) (Kaggle)
+- **Approach:** Missing value handling, categorical encoding, classification model, precision/recall/F1 on imbalanced data
+- **Result:** *TBD*
+- **Files:** *TBD*
 
 ## Tools & Libraries
 Python · Pandas · NumPy · Matplotlib · Scikit-learn
